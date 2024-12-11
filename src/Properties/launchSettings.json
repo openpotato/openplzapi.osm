@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "OpenPlzApi.Osm": {
+      "commandName": "Project",
+      "commandLineArgs": "extract --folder D:\\Workspace\\openpotato\\OpenPlzApi.Data\\src\\de"
+    }
+  }
+}
